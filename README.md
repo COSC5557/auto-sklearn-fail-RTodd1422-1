@@ -21,3 +21,8 @@ Add your report detailing your findings and code to this repository. Be specific
 when you explain why auto-sklearn fails here -- what does auto-sklearn do that
 results in bad performance, why is this a problem on this particular dataset,
 and what can you do to fix it?
+
+
+## Progress
+
+Finishing report, code fix using SMOTE works though and frequency plots are generated pre and post SMOTE. Accuracy went from 0.66 to 0.83. Full details will be in report.
