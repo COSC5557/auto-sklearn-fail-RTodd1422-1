@@ -24,5 +24,4 @@ and what can you do to fix it?
 
 
 ## Progress
-
-Finishing report, code fix using SMOTE works though and frequency plots are generated pre and post SMOTE. Accuracy went from 0.66 to 0.83. Full details will be in report.
+Added updated graphs in pull request chain
