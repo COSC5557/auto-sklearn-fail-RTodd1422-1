@@ -1,3 +1,8 @@
+## Link to google colab notebook: https://colab.research.google.com/drive/1u3eiIC8ZKoP-pwBIxJr9cHtbsBkWDdt8?usp=sharing
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ARi37hLH)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14549917&assignment_repo_type=AssignmentRepo)
 # Auto-sklearn Fail
 
 The code in `fail.py` runs
@@ -16,3 +21,7 @@ Add your report detailing your findings and code to this repository. Be specific
 when you explain why auto-sklearn fails here -- what does auto-sklearn do that
 results in bad performance, why is this a problem on this particular dataset,
 and what can you do to fix it?
+
+
+## Progress
+Added updated graphs in pull request chain
